@@ -1,0 +1,1 @@
+Stibbe will attempt to use polymer material, like in the Technion laboratory experiment, to create lenses in full microgravity.
